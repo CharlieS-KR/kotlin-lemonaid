@@ -5,4 +5,6 @@
     <string name="radio_amazing">Amazing (20%)</string>
     <string name="radio_good">Good (18%)</string>
     <string name="radio_ok">OK (15%)</string>
+    <string name="round_up_text">Round up?</string>
+    <string name="calculate_text">Calculate</string>
 </resources>
